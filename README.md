@@ -19,3 +19,4 @@ optional Google Search verification → structured report → chat with memory f
 - Analyze the whole dataset: `python batch.py` (results in `outputs/`)
 - Chatbot with follow-up questions: `streamlit run app.py`
 
+[investigation_report.pdf](https://github.com/user-attachments/files/33927065/investigation_report.pdf)
