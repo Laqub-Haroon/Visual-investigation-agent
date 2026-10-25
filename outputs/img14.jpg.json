@@ -1,0 +1,53 @@
+{
+  "image_summary": "A person holding a 50 Indian Rupee note in front of the iconic stone chariot structure at a historical temple complex in Hampi, India.",
+  "primary_subject": "Vijaya Vittala Temple Stone Chariot, Hampi",
+  "observed_clues": [
+    "Stone chariot shrine with carved wheels and elephant motifs at the base",
+    "Paved stone courtyard and pillared halls in the background",
+    "Indian 50 Rupee banknote held in the foreground, displaying an illustration of the exact same structure",
+    "Bright, harsh sunlight with lens flare",
+    "Dry, arid, rocky terrain characterisic of the Deccan Plateau"
+  ],
+  "inferred_points": [
+    "The banknote is used to establish location identity and cultural context",
+    "The structure is a major heritage site in India",
+    "The scene is a popular 'perspective' photo spot for tourists"
+  ],
+  "probable_location": {
+    "country": "India",
+    "region": "Karnataka",
+    "locality": "Hampi"
+  },
+  "identified_landmark": "Stone Chariot at the Vittala Temple Complex",
+  "location_confidence": {
+    "level": "High",
+    "score": 100,
+    "why": "The structure is world-renowned and depicted directly on the currency note being held, providing a 1:1 match."
+  },
+  "alternative_hypotheses": [],
+  "authenticity": {
+    "verdict": "Likely real",
+    "confidence": 95,
+    "signals": [
+      "Natural lighting and lens flare consistent with direct sunlight",
+      "Correct anatomical proportions of the human hand holding the note",
+      "Text and design on the currency note are legible and accurate to the actual INR 50 note",
+      "No artifacts typical of AI generation such as geometric warping of the stone carving"
+    ]
+  },
+  "historical_context": "The Stone Chariot is located in the Vittala Temple complex in Hampi, a UNESCO World Heritage site. It was built during the Vijayanagara Empire period (circa 16th century) under the reign of King Krishnadevaraya.",
+  "verified_facts": [
+    "The Stone Chariot in Hampi is a famous monolithic shrine dedicated to Garuda.",
+    "The design of the current 50 Rupee note of the Mahatma Gandhi New Series features the Hampi Stone Chariot on the reverse side.",
+    "Hampi is located in the Bellary district of Karnataka, India."
+  ],
+  "reasoning": "The combination of the specific architectural features of the Hampi chariot (wheels, elephant figures) and its direct appearance on the held currency note confirms the identity of the site with absolute certainty.",
+  "additional_observations": [
+    "The image exhibits a high dynamic range due to the sun being positioned directly behind the monument, causing significant silhouettes.",
+    "The stone carving style is distinctly Vijayanagara Dravidian architecture."
+  ],
+  "sources": [
+    "https://hampi.in/vittala-temple",
+    "https://www.rbi.org.in/scripts/BS_Banknote.aspx"
+  ]
+}

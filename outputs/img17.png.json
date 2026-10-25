@@ -1,0 +1,55 @@
+{
+  "image_summary": "A symmetrical, high-resolution front-facing photograph of the Taj Mahal, featuring the white marble mausoleum, the central reflecting pool (charbagh garden axis), and rows of cypress trees leading to the main structure.",
+  "primary_subject": "The Taj Mahal",
+  "observed_clues": [
+    "Symmetrical white marble mausoleum with a large central dome and four minarets",
+    "Reflecting pool in the foreground aligned with the central axis of the building",
+    "Manicured cypress trees flanking the walkway",
+    "Visitors visible on the raised platform (plinth) of the building",
+    "Soft early morning or late afternoon lighting casting long, consistent shadows",
+    "Clear sky with faint, wispy clouds"
+  ],
+  "inferred_points": [
+    "The perspective is taken from the main garden path looking North",
+    "The image is likely a professional-grade photograph given the clarity and lack of distortion",
+    "The scene depicts the classic tourist view of the monument"
+  ],
+  "probable_location": {
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "locality": "Agra"
+  },
+  "identified_landmark": "Taj Mahal",
+  "location_confidence": {
+    "level": "High",
+    "score": 100,
+    "why": "The architecture is one of the most recognizable structures in the world, matching the Taj Mahal exactly."
+  },
+  "alternative_hypotheses": [
+    "None, the architecture is globally unique and iconic."
+  ],
+  "authenticity": {
+    "verdict": "Likely real",
+    "confidence": 95,
+    "signals": [
+      "Consistent shadow direction",
+      "Correct geometric proportions",
+      "Presence of expected architectural details (e.g., inlay patterns, minaret structural details)",
+      "Realistic human figures with natural interactions"
+    ]
+  },
+  "historical_context": "The Taj Mahal was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal. It was completed in 1648, with the surrounding gardens and buildings finished shortly thereafter. It is a UNESCO World Heritage site representing the pinnacle of Mughal architecture.",
+  "verified_facts": [
+    "The Taj Mahal is located in Agra, India.",
+    "It is built primarily of white marble.",
+    "It was designated a UNESCO World Heritage Site in 1983."
+  ],
+  "reasoning": "The visual data (geometry, structural elements, iconic layout) matches historical and architectural records of the Taj Mahal. The lighting and perspective are consistent with standard photography of the site.",
+  "additional_observations": [
+    "The reflection in the pool appears accurate and continuous with the physical architecture, indicating no digital manipulation of the building itself."
+  ],
+  "sources": [
+    "https://whc.unesco.org/en/list/252/",
+    "https://www.tajmahal.gov.in/"
+  ]
+}

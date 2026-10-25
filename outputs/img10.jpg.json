@@ -1,0 +1,51 @@
+{
+  "image_summary": "A upward-facing view of the Hawa Mahal in Jaipur, India, featuring its iconic pink-red sandstone honeycomb facade, crowded with small windows and domed kiosks, set against a sky filled with a large flock of birds.",
+  "primary_subject": "Hawa Mahal (Palace of Winds)",
+  "observed_clues": [
+    "Distinctive pink-red sandstone facade",
+    "Honeycomb structure with 953 small windows (jharokhas)",
+    "Intricate latticework (jaali) on windows",
+    "Domed kiosks and lotus-shaped motifs",
+    "Large flock of birds in flight above the building"
+  ],
+  "inferred_points": [
+    "The image is likely a composite or highly edited photo given the density and uniformity of the birds.",
+    "The architectural style is Rajput, specifically characteristic of 18th-century Rajasthani design.",
+    "The building was designed to allow cool air to pass through to keep the interior comfortable."
+  ],
+  "probable_location": {
+    "country": "India",
+    "region": "Rajasthan",
+    "locality": "Jaipur"
+  },
+  "identified_landmark": "Hawa Mahal",
+  "location_confidence": {
+    "level": "High",
+    "score": 100,
+    "why": "The structure is globally iconic and unique to Jaipur."
+  },
+  "alternative_hypotheses": [],
+  "authenticity": {
+    "verdict": "Uncertain",
+    "confidence": 70,
+    "signals": [
+      "The flock of birds appears unnaturally distributed and potentially duplicated or inserted via AI generation software.",
+      "The lighting and sharpness of the architecture are consistent with real photography.",
+      "The sky area shows signs of high-frequency editing."
+    ]
+  },
+  "historical_context": "Built in 1799 by Maharaja Sawai Pratap Singh, the Hawa Mahal was designed as an extension of the City Palace, specifically to allow royal ladies to observe street festivals and daily life without being seen, consistent with the strict purdah system of the time.",
+  "verified_facts": [
+    "Hawa Mahal is located in Jaipur, Rajasthan, India.",
+    "It was built in 1799.",
+    "The building features 953 small windows known as jharokhas."
+  ],
+  "reasoning": "The architecture is unmistakable. The facade's unique pink sandstone honeycomb pattern is the definitive signature of the Hawa Mahal in Jaipur. The flock of birds is a common trope in travel photography of this site, though the execution in this specific image suggests heavy digital manipulation.",
+  "additional_observations": [
+    "High-contrast lighting implies midday sun.",
+    "The perspective is taken from the street level looking directly up."
+  ],
+  "sources": [
+    "https://www.jaipur.org.uk/forts-monuments/hawa-mahal.html"
+  ]
+}

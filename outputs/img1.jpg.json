@@ -1,0 +1,51 @@
+{
+  "image_summary": "High-angle fisheye aerial perspective looking directly past the gilded flame and balcony of the Statue of Liberty down toward Liberty Island and New York Harbor.",
+  "primary_subject": "Statue of Liberty (Liberty Enlightening the World)",
+  "observed_clues": [
+    "Colossal neoclassical statue with green copper verdigris patina, radiate crown, and draped robe (stola).",
+    "Gilded golden flame atop a torch held aloft in the right hand, featuring a detailed balustrade/balcony.",
+    "Star-shaped granite and concrete pedestal base (Fort Wood) centered on an island.",
+    "Island layout with paved perimeter walkways, lawn segments, and security/concession buildings.",
+    "Upper New York Bay with visible ship wakes, industrial docks, and coastal skylines in the background.",
+    "Ultra-wide/fisheye barrel distortion curving the horizon line."
+  ],
+  "inferred_points": [
+    "The photo was taken from an aircraft or helicopter hovering directly above the torch looking downward.",
+    "The gilded 24-karat gold flame dates the photograph after the 1984–1986 centennial restoration when the modified 1916 torch was replaced with a replica of Bartholdi's original design."
+  ],
+  "probable_location": {
+    "country": "United States",
+    "region": "New York",
+    "locality": "New York City (Liberty Island, Upper New York Bay)"
+  },
+  "identified_landmark": "Statue of Liberty (Liberty Enlightening the World)",
+  "location_confidence": {
+    "level": "High",
+    "score": 100,
+    "why": "The Statue of Liberty, its Fort Wood pedestal, and the surrounding geography of Liberty Island are globally recognizable and unambiguous."
+  },
+  "alternative_hypotheses": [],
+  "authenticity": {
+    "verdict": "Likely real",
+    "confidence": 98,
+    "signals": [
+      "Consistent fisheye optical distortion and natural atmospheric haze.",
+      "Exact architectural and spatial accuracy of Liberty Island, Fort Wood, and New Jersey shoreline.",
+      "Natural harbor wake patterns and precise shadow projection of the statue onto the water."
+    ]
+  },
+  "historical_context": "Designed by French sculptor Frédéric-Auguste Bartholdi with an iron framework engineered by Gustave Eiffel, the statue was dedicated on October 28, 1886, as a gift from the people of France. It stands atop Fort Wood, an 11-pointed star-shaped former military fortification built between 1806 and 1811. The torch balcony has remained closed to visitors since 1916 following the Black Tom sabotage explosion.",
+  "verified_facts": [
+    "The Statue of Liberty is located on Liberty Island in Upper New York Bay, administered by the National Park Service.",
+    "The current gold-leafed flame was installed during the centennial restoration completed in 1986.",
+    "The pedestal incorporates the remaining walls of Fort Wood, an early 19th-century coastal fortress."
+  ],
+  "reasoning": "The visible architectural features—specifically the radiate crown, neoclassical drapery, torch balcony, and 11-point star fort base—conclusively identify the subject as the Statue of Liberty on Liberty Island. The surrounding geography perfectly corresponds with Upper New York Bay, facing towards Liberty State Park in Jersey City.",
+  "additional_observations": [
+    "The statue's distinct silhouette is cast as a shadow across the bay to the lower left.",
+    "The railing around the torch balcony displays the restored circular ironwork motif."
+  ],
+  "sources": [
+    "https://www.nps.gov/stli/index.htm"
+  ]
+}

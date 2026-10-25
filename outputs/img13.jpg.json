@@ -1,0 +1,50 @@
+{
+  "image_summary": "A low-angle, upward-looking perspective of the Eiffel Tower under a cloudy sky with autumn-toned foliage in the foreground.",
+  "primary_subject": "The Eiffel Tower",
+  "observed_clues": [
+    "Distinctive wrought-iron latticework of the tower",
+    "Specific geometry of the base arches and vertical structure",
+    "Cloudy, overcast sky",
+    "Orange-brown deciduous tree/shrub in the immediate foreground",
+    "Partial view of a low green fence at the very bottom"
+  ],
+  "inferred_points": [
+    "The perspective is taken from the Champ de Mars area directly beneath or very close to the tower",
+    "The foliage color suggests the photograph was taken in late autumn"
+  ],
+  "probable_location": {
+    "country": "France",
+    "region": "Île-de-France",
+    "locality": "Paris"
+  },
+  "identified_landmark": "Eiffel Tower",
+  "location_confidence": {
+    "level": "High",
+    "score": 100,
+    "why": "The structure is globally iconic and visually unmistakable."
+  },
+  "alternative_hypotheses": [],
+  "authenticity": {
+    "verdict": "Likely real",
+    "confidence": 95,
+    "signals": [
+      "No signs of digital manipulation, warping, or nonsensical structural geometry",
+      "Natural lighting and atmospheric conditions consistent with real-world photography",
+      "Correct structural details (rivet patterns, girder alignment)"
+    ]
+  },
+  "historical_context": "The Eiffel Tower was constructed from 1887 to 1889 by Gustave Eiffel's company for the 1889 Exposition Universelle. It is located on the Champ de Mars in Paris.",
+  "verified_facts": [
+    "The Eiffel Tower is located in Paris, France.",
+    "The tower was designed by Émile Nouguier, Maurice Koechlin, and Stephen Sauvestre.",
+    "It stands at 330 meters tall."
+  ],
+  "reasoning": "The architectural features of the Eiffel Tower are unique and universally recognized. The image provides a clear view of the iron lattice structure characteristic of the monument, confirming its identity.",
+  "additional_observations": [
+    "The lighting is flat due to the overcast weather",
+    "Composition is centered on the vertical axis of the tower"
+  ],
+  "sources": [
+    "https://www.toureiffel.paris/en/the-monument/history"
+  ]
+}

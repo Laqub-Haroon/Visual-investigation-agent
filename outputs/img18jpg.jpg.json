@@ -1,0 +1,54 @@
+{
+  "image_summary": "A tall, fairytale-style castle featuring pastel pink facade walls, intricate ornate turrets with bright blue/teal pointed roofs, golden accents, and stone masonry at the base against a clear blue sky.",
+  "primary_subject": "Le Château de la Belle au Bois Dormant (Sleeping Beauty Castle)",
+  "observed_clues": [
+    "Pastel pink tower walls accented with delicate gothic tracery and spiral balustrades",
+    "Conical roofs and spires tiled in teal-blue with golden weather vanes and finials",
+    "Gilded snails crawling up the gold spire, a distinct artistic touch",
+    "Rusticated grey stone gatehouse and bridge base with an arched passageway at the bottom",
+    "Artificial rocky mound (butte) visible to the lower-left side",
+    "Ornate oval stained-glass style windows framed in gold and blue trim",
+    "Visitors visible on the bridge at the base with globe street lamps"
+  ],
+  "inferred_points": [
+    "The unique architectural design blends European fairy-tale illustration (inspired by the illuminated manuscript 'Très Riches Heures du Duc de Berry') with Mont Saint-Michel silhouette styling, distinctive specifically to Disneyland Paris rather than the castles in California, Florida, or Tokyo",
+    "The golden snails on the spire are a well-documented easter egg specific to the French park",
+    "Natural sunlight casting sharp shadows from right to left confirms outdoor photography on a clear day"
+  ],
+  "probable_location": {
+    "country": "France",
+    "region": "Île-de-France",
+    "locality": "Chessy (Marne-la-Vallée)"
+  },
+  "identified_landmark": "Le Château de la Belle au Bois Dormant (Disneyland Paris)",
+  "location_confidence": {
+    "level": "High",
+    "score": 100,
+    "why": "The structure's architecture, including its specific pink hue, teal tiled spires, golden snails, and left-side rocky hill, is uniquely characteristic of Le Château de la Belle au Bois Dormant at Disneyland Paris."
+  },
+  "alternative_hypotheses": [],
+  "authenticity": {
+    "verdict": "Likely real",
+    "confidence": 98,
+    "signals": [
+      "Consistent shadow casting and natural lighting angle",
+      "Accurate architectural proportions and faithful representation of real park details",
+      "Sharp and coherent roof tile geometry and ornamentation without generative artifacts"
+    ]
+  },
+  "historical_context": "Designed by Walt Disney Imagineering under lead concept designer Tom Morris, the castle opened on April 12, 1992, alongside the opening of Euro Disney (now Disneyland Paris). Unlike the realistic romanticized German Neuschwanstein-inspired castles in Anaheim and Orlando, Imagineers opted for a stylized, storybook fantasy design to stand out against real European châteaux.",
+  "verified_facts": [
+    "Le Château de la Belle au Bois Dormant stands at 50.3 meters (165 ft) tall at Disneyland Park in Chessy, France.",
+    "Features genuine 24-karat gold leaf detailing on the spires, including decorative climbing snails.",
+    "The castle houses 'La Tanière du Dragon' underneath the artificial rockwork visible on the left."
+  ],
+  "reasoning": "The distinct shape, color scheme, detailing (including gilded snails on the spire and stone entrance arch), and the rocky outcrop to the left directly match Le Château de la Belle au Bois Dormant at Disneyland Paris.",
+  "additional_observations": [
+    "The golden flags and weather vanes at the spire tips bear traditional French fleur-de-lis and stylized fairytale motifs.",
+    "Crowds of guests are visible walking across the bridge spanning the castle moat at the bottom."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Le_Ch%C3%A2teau_de_la_Belle_au_Bois_Dormant",
+    "https://www.disneylandparis.com/en-gb/attractions/disneyland-park/sleeping-beauty-castle/"
+  ]
+}

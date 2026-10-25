@@ -1,0 +1,54 @@
+{
+  "image_summary": "A photograph showing the Golden Temple (Harmandir Sahib) in Amritsar, India, situated in the middle of a sacred pool (sarovar) with its distinctive gold-plated exterior and central dome reflecting in the water.",
+  "primary_subject": "Harmandir Sahib (The Golden Temple)",
+  "observed_clues": [
+    "Large, central gilded structure with a prominent central dome",
+    "Smaller domes (chhatris) at the corners",
+    "Surrounding water body reflecting the structure",
+    "White marble base level with intricate carvings",
+    "People visible walking on the causeway/pathway along the base",
+    "Orange flags typical of Sikh religious sites",
+    "Air conditioning units visible on the ground level of the structure"
+  ],
+  "inferred_points": [
+    "The site is a major pilgrimage center given the architectural grandeur and presence of devotees",
+    "The gold plating suggests high status and devotional significance in the Sikh faith",
+    "The presence of modern amenities like AC units indicates the site is actively maintained and used in a contemporary context"
+  ],
+  "probable_location": {
+    "country": "India",
+    "region": "Punjab",
+    "locality": "Amritsar"
+  },
+  "identified_landmark": "Harmandir Sahib (The Golden Temple)",
+  "location_confidence": {
+    "level": "High",
+    "score": 100,
+    "why": "The structure is globally iconic and visually unmistakable."
+  },
+  "alternative_hypotheses": [],
+  "authenticity": {
+    "verdict": "Likely real",
+    "confidence": 95,
+    "signals": [
+      "Consistent lighting and reflections",
+      "Realistic architectural textures",
+      "Authentic presence of human figures and minor functional details like AC units which are often present in the actual site photography"
+    ]
+  },
+  "historical_context": "The foundation was laid in the 16th century by Guru Arjan Dev. The current appearance, including the gold-plating of the upper levels, dates primarily from the 19th-century restoration commissioned by Maharaja Ranjit Singh.",
+  "verified_facts": [
+    "Harmandir Sahib is the holiest Gurdwara of Sikhism.",
+    "The temple is located in the city of Amritsar, Punjab, India.",
+    "The upper floors of the temple are covered with approximately 750kg of gold."
+  ],
+  "reasoning": "The visual architectural features (central dome, gold-leaf structure, reflection in the sacred pool) are specific signatures of the Harmandir Sahib. The environmental context (Amritsar, Punjab) is consistent with the visual evidence.",
+  "additional_observations": [
+    "Sky condition is clear blue with wispy clouds",
+    "The reflection in the water shows a realistic level of distortion and color depth"
+  ],
+  "sources": [
+    "https://www.sikhiwiki.org/index.php/Harmandir_Sahib",
+    "https://www.britannica.com/topic/Harmandir-Sahib"
+  ]
+}
